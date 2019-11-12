@@ -1,3 +1,4 @@
 let foo = 'bar';
 
-console.log('Test');
+
+console.log('Testing');
